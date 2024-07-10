@@ -1,2 +1,2 @@
-# my_first_project
+# my-first-project
 The repository for my studies
